@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahuldivyansh
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning java programming and DSA
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to contribute on open source projects 
 - 📫 How to reach me: LinkedIn - www.linkedin.com/in/divyansh-kumar-66b12a147
                       Instagram - divyansh.personal
 
