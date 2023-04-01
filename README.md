@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahuldivyansh
+- 👋 Hi, I’m Divyansh.
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning java programming and DSA
 - 💞️ I’m looking to contribute on open source projects 
